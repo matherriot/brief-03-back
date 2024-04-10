@@ -1,0 +1,25 @@
+{
+  "name": "brief-03-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "schema": "arkit -f index.js"
+  },
+  "author": "Mathis HERRIOT",
+  "license": "MIT",
+  "dependencies": {
+    "@node-rs/argon2": "^1.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jose": "^5.2.3",
+    "mongodb": "^6.5.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.4",
+    "arkit": "^1.6.4",
+    "nodemon": "^3.1.0"
+  }
+}

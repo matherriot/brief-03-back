@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="474px" preserveAspectRatio="none" style="width:666px;height:474px;" version="1.1" viewBox="0 0 666 474" width="666px" zoomAndPan="magnify"><defs/><g><!--MD5=[a6f11bb19cee6b13000111f5ad685e8b]
+cluster Dependencies--><path d="M144.5,379 L238.5,379 A4.5,4.5 0 0 1 241.5,382 L248.5,399.4844 L600.5,399.4844 A3,3 0 0 1 603.5,402.4844 L603.5,459 A3,3 0 0 1 600.5,462 L144.5,462 A3,3 0 0 1 141.5,459 L141.5,382 A3,3 0 0 1 144.5,379 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="141.5" x2="248.5" y1="399.4844" y2="399.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="94" x="145.5" y="393.0059">Dependencies</text><!--MD5=[220f98b55a6164126c21b6c695ed8df1]
+entity @node-rs--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="77" x="248" y="412"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="243" y="417"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="243" y="436.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="57" x="258" y="434.0059">@node-rs</text><!--MD5=[564a394d57ce3e0a92ac6699042b9ef1]
+entity cors--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="46" x="541.5" y="412"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="536.5" y="417"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="536.5" y="436.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26" x="551.5" y="434.0059">cors</text><!--MD5=[6d151e53a42aadf92577082572a20d90]
+entity express--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="65" x="461" y="412"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="456" y="417"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="456" y="436.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="45" x="471" y="434.0059">express</text><!--MD5=[852d35cda831ec8e5dfeab2ca6e9b489]
+entity jose--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="46" x="340.5" y="412"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="335.5" y="417"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="335.5" y="436.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26" x="350.5" y="434.0059">jose</text><!--MD5=[920f55dacc69cbaf43b0aa823f7e1721]
+entity mongodb--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="75" x="158" y="412"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="153" y="417"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="153" y="436.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="168" y="434.0059">mongodb</text><!--MD5=[30a483c10ad11699b96d09bf142b4abb]
+entity uuid--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="44" x="401.5" y="412"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="396.5" y="417"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="396.5" y="436.4844"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="24" x="411.5" y="434.0059">uuid</text><ellipse cx="506.7487" cy="21.242" fill="#F8F8F8" rx="27.7487" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="489.2487" y="24.9842">index</text><ellipse cx="353.6777" cy="106.242" fill="#F8F8F8" rx="20.6777" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="25" x="341.1777" y="109.9842">auth</text><ellipse cx="159.3275" cy="192.8655" fill="#F8F8F8" rx="57.3275" ry="13.8655" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="81" x="118.8275" y="196.6077">AuthController</text><ellipse cx="264.3676" cy="255.6735" fill="#F8F8F8" rx="81.3676" ry="18.6735" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="139" x="194.8676" y="259.4157">AuthorizationMiddleware</text><ellipse cx="331.6335" cy="318.242" fill="#F8F8F8" rx="46.1335" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="61" x="301.1335" y="321.9842">JwtService</text><ellipse cx="68.7284" cy="317.9457" fill="#F8F8F8" rx="62.7284" ry="14.9457" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="21.2284" y="321.6879">MongodbService</text><ellipse cx="506.4558" cy="106.242" fill="#F8F8F8" rx="28.4558" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="488.4558" y="109.9842">thread</text><ellipse cx="423.5772" cy="318.242" fill="#F8F8F8" rx="30.5772" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="39" x="404.0772" y="321.9842">Thread</text><ellipse cx="506.7284" cy="192.9457" fill="#F8F8F8" rx="62.7284" ry="14.9457" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="95" x="459.2284" y="196.6879">ThreadController</text><ellipse cx="418.3275" cy="255.3655" fill="#F8F8F8" rx="57.3275" ry="13.8655" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="81" x="377.8275" y="259.1077">ThreadService</text><ellipse cx="248.3848" cy="318.242" fill="#F8F8F8" rx="21.3848" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26" x="235.3848" y="321.9842">User</text><ellipse cx="85.5833" cy="255.742" fill="#F8F8F8" rx="51.0833" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="68" x="51.5833" y="259.4842">UserService</text><!--MD5=[074414c5c82c4f7f499f7382ecb05835]
+link auth to AuthController--><path d="M337.293,114.101 C305.025,128.239 232.263,160.119 190.513,178.412 " fill="none" id="auth-&gt;AuthController" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="185.828,180.465,195.6767,180.5161,190.4075,178.4581,192.4656,173.1889,185.828,180.465" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[2b69a5fa4a80a008b187c42b519207c1]
+link auth to AuthorizationMiddleware--><path d="M346.516,118.574 C331.753,143.042 297.156,200.38 277.948,232.213 " fill="none" id="auth-&gt;AuthorizationMiddleware" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="275.23,236.717,283.304,231.0769,277.8128,232.4357,276.454,226.9445,275.23,236.717" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[cd37e4c630297b74344cc033adceaeaa]
+link auth to express--><path d="M360.941,118.335 C374.348,138.18 404.191,179.784 436.5,208 C454.988,224.146 470.983,215.886 483.5,237 C515.456,290.904 505.732,369.13 498.413,406.5258 " fill="none" id="auth-&gt;express" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="497.356,411.7391,503.065,403.7137,498.3498,406.8389,495.2246,402.1236,497.356,411.7391" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[90f48bcffe68556531b6a39a7dd0d3ef]
+link AuthController to JwtService--><path d="M158.235,207.209 C157.322,224.783 158.515,255.754 175.5,274 C177.583,276.238 249.028,295.331 294.498,307.311 " fill="none" id="AuthController-&gt;JwtService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="299.361,308.591,291.6761,302.4313,294.5258,307.3179,289.6391,310.1676,299.361,308.591" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[5523f93a1da646cb716961b9ecd63599]
+link AuthController to UserService--><path d="M144.167,206.536 C132.453,216.113 116.264,229.349 103.8589,239.49 " fill="none" id="AuthController-&gt;UserService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="99.8091,242.801,109.3083,240.1999,103.6796,239.6357,104.2438,234.0071,99.8091,242.801" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f72c83e523681edf47268018fb64d185]
+link AuthorizationMiddleware to JwtService--><path d="M283.52,273.675 C293.27,282.479 305.045,293.111 314.49,301.64 " fill="none" id="AuthorizationMiddleware-&gt;JwtService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="318.383,305.155,314.3858,296.1537,314.6727,301.8033,309.0231,302.0902,318.383,305.155" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[50286d6caec8ef31bd4e1f99835f3767]
+link <b>index</b> to auth--><path d="M489.246,31.36 C460.612,46.894 403.443,77.907 373.243,94.29 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;auth" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="368.636,96.789,378.4543,96.014,373.0311,94.4051,374.64,88.9818,368.636,96.789" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[79f83ac62f174ff5576901020072590d]
+link <b>index</b> to cors--><path d="M532.959,24.833 C575.529,31.016 654.5,49.911 654.5,105 C654.5,105 654.5,105 654.5,319 C654.5,358.834 618.318,391.9742 591.837,410.8954 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;cors" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="587.677,413.8089,597.3434,411.9217,591.7723,410.9403,592.7537,405.3693,587.677,413.8089" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[b4a8eeac42e61bfad7c4a336546ffd79]
+link <b>index</b> to express--><path d="M530.459,27.512 C564.689,36.97 623.5,59.798 623.5,105 C623.5,105 623.5,105 623.5,319 C623.5,329.85 612.576,327.053 603.5,333 C582.141,346.995 577.418,351.74 554.5,363 C545.536,367.404 541.381,364.865 533.5,371 C521.036,380.7024 510.875,395.3486 503.913,407.3649 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;express" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="501.312,411.9935,509.2086,406.1076,503.7618,407.6348,502.2347,402.188,501.312,411.9935" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[531ecae5046ad7d687ce507bb24e2c55]
+link <b>index</b> to MongodbService--><path d="M479.535,23.642 C376.24,30.284 11.5,57.129 11.5,105 C11.5,105 11.5,105 11.5,194 C11.5,230.175 9.8114,241.904 26.5,274 C31.5474,283.707 39.505,292.676 47.1426,299.882 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;MongodbService" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="50.8521,303.274,46.9093,294.2488,47.1621,299.9,41.5109,300.1528,50.8521,303.274" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[05ae4a34190a047ef703a91f6b6453d7]
+link <b>index</b> to thread--><path d="M506.5,34.247 C506.5,48.427 506.5,71.877 506.5,87.862 " fill="none" id="&lt;b&gt;index&lt;/b&gt;-&gt;thread" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="506.5,92.973,510.5,83.973,506.5,87.973,502.5,83.973,506.5,92.973" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[0473e9970b1b80d561438934c467b048]
+link JwtService to jose--><path d="M335.047,331.081 C340.433,349.427 350.745,384.5529 357.364,407.0992 " fill="none" id="JwtService-&gt;jose" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="358.799,411.9862,360.1014,402.2238,357.3903,407.1887,352.4254,404.4777,358.799,411.9862" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e19081990882835a201e0e76a6aa2db5]
+link MongodbService to mongodb--><path d="M84.3279,332.585 C106.545,351.653 147.11,386.4683 172.614,408.3575 " fill="none" id="MongodbService-&gt;mongodb" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="176.573,411.7552,172.3477,402.8587,172.7785,408.4992,167.1381,408.93,176.573,411.7552" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[89dab2cdd206dc0cdb473a9d8738ceb4]
+link MongodbService to MongodbService--><path d="M121.022,309.811 C135.208,310.243 146,312.973 146,318 C146,322.399 137.737,325.039 126.168,325.919 " fill="none" id="MongodbService-&gt;MongodbService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="121.022,326.189,130.2188,329.7129,126.0152,325.9276,129.8005,321.7239,121.022,326.189" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[eae354a3e9d1f29adf00ce86b77c72b4]
+link thread to AuthorizationMiddleware--><path d="M490.246,116.907 C450.561,141.095 348.167,203.504 296.023,235.287 " fill="none" id="thread-&gt;AuthorizationMiddleware" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="291.747,237.893,301.5141,236.6264,296.017,235.2916,297.3518,229.7945,291.747,237.893" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[859c90397d2e31b478055a842bcbbea6]
+link thread to express--><path d="M526.015,115.672 C551.388,128.434 592.5,154.843 592.5,192 C592.5,192 592.5,192 592.5,319 C592.5,353.953 556.813,344.957 533.5,371 C523.392,382.2918 513.592,396.1929 506.222,407.4401 " fill="none" id="thread-&gt;express" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="503.42,411.7665,511.6693,406.386,506.1376,407.5695,504.9541,402.0379,503.42,411.7665" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[2b1f9f55fd73e2be3d17a378f203ceae]
+link thread to ThreadController--><path d="M506.5,119.178 C506.5,133.118 506.5,156.14 506.5,172.566 " fill="none" id="thread-&gt;ThreadController" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="506.5,177.861,510.5,168.861,506.5,172.861,502.5,168.861,506.5,177.861" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e9a0d62d32cdd5b67828f1ca911794fb]
+link Thread to uuid--><path d="M423.5,331.081 C423.5,349.349 423.5,384.2581 423.5,406.8144 " fill="none" id="Thread-&gt;uuid" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="423.5,411.9862,427.5,402.9862,423.5,406.9862,419.5,402.9862,423.5,411.9862" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[b4f54fed9f7ebedd420352bd5eea5569]
+link ThreadController to express--><path d="M508.265,208.097 C511.595,237.192 517.837,305.947 510.5,363 C508.569,378.0135 504.227,394.5089 500.415,407.1257 " fill="none" id="ThreadController-&gt;express" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="498.932,411.9325,505.4083,404.5124,500.4066,407.1549,497.7641,402.1531,498.932,411.9325" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f1a249a7e10fd60e3f05f77ea6c5ae7f]
+link ThreadController to JwtService--><path d="M506.401,208.212 C505.491,226.027 501.216,256.359 483.5,274 C481.395,276.096 412.468,295.064 368.165,307.097 " fill="none" id="ThreadController-&gt;JwtService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="363.157,308.456,372.8906,309.9585,367.9824,307.1461,370.7947,302.2379,363.157,308.456" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c847dd56b4dc63768d400a080b676441]
+link ThreadController to ThreadService--><path d="M486.97,207.427 C473.295,216.828 454.997,229.409 440.757,239.199 " fill="none" id="ThreadController-&gt;ThreadService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="436.477,242.141,446.1594,240.3378,440.597,239.3081,441.6268,233.7458,436.477,242.141" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[c4963c4681956fdf1531a721aabc3ae0]
+link ThreadService to MongodbService--><path d="M383.592,266.678 C373.901,269.29 363.337,271.941 353.5,274 C276.362,290.149 186.266,302.703 128.353,309.973 " fill="none" id="ThreadService-&gt;MongodbService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="123.199,310.617,132.6254,313.4705,128.1604,309.9972,131.6337,305.5322,123.199,310.617" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[13efe2f2fdf4483e119b6492f5140442]
+link ThreadService to Thread--><path d="M419.585,269.628 C420.312,278.424 421.277,290.102 422.067,299.661 " fill="none" id="ThreadService-&gt;Thread" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="422.485,304.723,425.7308,295.4244,422.0736,299.74,417.758,296.0827,422.485,304.723" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[333fe9d432a0a4173740680f8d12f563]
+link User to uuid--><path d="M264.283,327.09 C268.525,329.133 273.144,331.244 277.5,333 C327.817,353.282 352.057,335.99 393.5,371 C404.563,380.3453 412.11,394.8218 416.867,406.8466 " fill="none" id="User-&gt;uuid" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="418.738,411.828,419.3187,401.9963,416.9803,407.1472,411.8294,404.8087,418.738,411.828" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[67d43477d4494530cfafebfafcbc51df]
+link UserService to @node-rs--><path d="M107.216,267.33 C122.31,275.616 142.204,288.129 156.5,303 C178.052,325.419 166.794,345.498 192.5,363 C210.377,375.172 221.823,360.095 240.5,371 C255.269,379.6228 267.215,394.9163 275.229,407.4923 " fill="none" id="UserService-&gt;@node-rs" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="278.001,411.9852,276.6794,402.2254,275.3756,407.73,269.871,406.4261,278.001,411.9852" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[ca69c36bc2b89b1018ff303c2ffe6244]
+link UserService to jose--><path d="M108.102,267.228 C126.556,276.211 153.143,289.67 175.5,303 C195.829,315.121 198.307,322.463 219.5,333 C266.945,356.59 291.924,336.925 332.5,371 C343.771,380.4652 351.612,395.1163 356.588,407.1943 " fill="none" id="UserService-&gt;jose" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="358.42,411.85,358.8473,402.0104,356.5894,407.1971,351.4027,404.9393,358.42,411.85" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[4f21cd27e67cf56bfbba40f5e37504d7]
+link UserService to JwtService--><path d="M117.468,265.712 C127.386,268.481 138.371,271.456 148.5,274 C205.495,288.313 220.384,289.18 277.5,303 C282.977,304.325 288.755,305.771 294.412,307.215 " fill="none" id="UserService-&gt;JwtService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="299.563,308.536,291.8381,302.4265,294.7196,307.2944,289.8516,310.1759,299.563,308.536" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[d6678cc0633ef5ddcb49815055f6379d]
+link UserService to MongodbService--><path d="M82.0598,268.743 C79.7349,277.017 76.6161,288.116 73.9557,297.584 " fill="none" id="UserService-&gt;MongodbService" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="72.5328,302.648,78.8187,295.066,73.8856,297.8345,71.1171,292.9014,72.5328,302.648" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e454b6428d3e152525845c1b2c50e263]
+link UserService to User--><path d="M114.073,266.388 C140.304,275.563 180.185,289.758 214.5,303 C218.524,304.553 222.792,306.261 226.895,307.935 " fill="none" id="UserService-&gt;User" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="231.611,309.872,224.8057,302.7525,226.986,307.9723,221.7661,310.1525,231.611,309.872" style="stroke: #000000; stroke-width: 0.5;"/><script type="text/plantuml"><![CDATA[MD5=[a93d9a0f14f9723a42016e5ccbe0d3e1]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 15
+skinparam ranksep 29
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>index</b>)
+(auth)
+(AuthController)
+(AuthorizationMiddleware)
+(JwtService)
+(MongodbService)
+(thread)
+(Thread)
+(ThreadController)
+(ThreadService)
+(User)
+(UserService)
+
+package "Dependencies" {
+  [@node-rs]
+  [cors]
+  [express]
+  [jose]
+  [mongodb]
+  [uuid]
+}
+
+(auth) --> (AuthController)
+(auth) ----> (AuthorizationMiddleware)
+(auth) ----> [express]
+(AuthController) --> (JwtService)
+(AuthController) --> (UserService)
+(AuthorizationMiddleware) --> (JwtService)
+(<b>index</b>) ---[thickness=1]> (auth)
+(<b>index</b>) --[thickness=1]> [cors]
+(<b>index</b>) --[thickness=1]> [express]
+(<b>index</b>) -[thickness=1]> (MongodbService)
+(<b>index</b>) ---[thickness=1]> (thread)
+(JwtService) ---> [jose]
+(MongodbService) ---> [mongodb]
+(MongodbService) --> (MongodbService)
+(thread) ----> (AuthorizationMiddleware)
+(thread) ----> [express]
+(thread) --> (ThreadController)
+(Thread) ---> [uuid]
+(ThreadController) ---> [express]
+(ThreadController) --> (JwtService)
+(ThreadController) --> (ThreadService)
+(ThreadService) --> (MongodbService)
+(ThreadService) --> (Thread)
+(User) ---> [uuid]
+(UserService) ---> [@node-rs]
+(UserService) ---> [jose]
+(UserService) --> (JwtService)
+(UserService) --> (MongodbService)
+(UserService) --> (User)
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>
